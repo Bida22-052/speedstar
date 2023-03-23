@@ -1,0 +1,25 @@
+.red-underline{
+    border-bottom: 4px solid red;
+}
+
+.red-border{
+    border: 1px solid red;
+}
+
+.side-by-side-sections{
+    width:45%;
+    display: inline-block;
+}
+
+.initial-circles{
+    color: red;
+   
+    text-align: center;
+    border: 4px red(255, 77, 77) solid;
+    width: 125px;
+    height: 100px;
+    padding-top: 25px;
+    font-family: sans-serif;
+    float: left;
+    margin-top: 20px;
+}
